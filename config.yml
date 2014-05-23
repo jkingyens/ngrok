@@ -1,0 +1,2 @@
+trust_host_root_certs: true
+server_addr: 107.178.219.102:49168
